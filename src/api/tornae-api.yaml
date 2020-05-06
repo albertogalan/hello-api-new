@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: 1.0.0
-  title: kubernetes33
+  title: kubernetes41
 servers:
   - url: 'http://myapp.apps.ocp-eu2.prod.nextcle.com'
 paths:
