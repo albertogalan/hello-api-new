@@ -1,10 +1,9 @@
 openapi: 3.0.0
 info:
   version: 1.0.0
-  title: hello
+  title: kubernetes
 servers:
-  - url: 'http://localhost:3000'
-  - url: 'http://test.local:3000'
+  - url: 'http://myapp.apps.ocp-eu2.prod.nextcle.com'
 paths:
   /user:
     get:
